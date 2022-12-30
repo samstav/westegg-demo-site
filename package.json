@@ -4,7 +4,7 @@
   "version": "1.1.0",
   "author": "Robin Métral <robin@metral.ch>",
   "dependencies": {
-    "gatsby": "^2.0.76",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-manifest": "^2.0.13",
     "gatsby-plugin-offline": "^2.0.21",
     "gatsby-plugin-react-helmet": "^3.0.5",
